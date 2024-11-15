@@ -192,4 +192,10 @@ Feby                    67890           75.0       80.0       85.0       80.50
 Output di atas menunjukkan data mahasiswa dalam bentuk tabel yang rapi, beserta nilai akhir yang dihitung sesuai dengan bobot masing-masing komponen.
 
 
+BERIKUT INI ADALAH GAMBAR FLOWCHARTNYA    
+
+![Gambar Flowchart Data Mahasiswa](https://github.com/user-attachments/assets/840c1d7d-7e33-48f5-a283-04dc15f7be4d)
+
+
+
 
